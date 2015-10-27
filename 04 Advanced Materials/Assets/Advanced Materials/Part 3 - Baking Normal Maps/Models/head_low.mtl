@@ -1,0 +1,21 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl defaultMat
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd d:\devZoneRoot\devZoneGit\ch.bfh.GameDevAdvanced\04 Advanced Materials\Assets\Advanced Materials\Part 3 - Baking Normal Maps\Textures\head_normalmap.png
+
+newmtl defaultMat_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
